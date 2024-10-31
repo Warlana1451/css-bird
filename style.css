@@ -1,0 +1,49 @@
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+.h4{
+    color: cornflowerblue;
+}
+.header{
+    text-align: center;
+    background-color: aquamarine;
+}
+.baju{
+    background-color: cadetblue;
+}
+.menu li{
+    display: inline;
+    margin: 160px;
+}
+.menu{
+    background-color: rgb(195, 243, 117);
+}
+.gambar img{
+    height: 100x;
+    width: 250px;
+}
+.isi{
+    background-color: aquamarine;
+}
+.profil{
+    background-color: aquamarine;
+
+}
+.ternak{
+    margin: auto;
+    background-color: aquamarine;
+}
+.koleksi img{
+    height: 150px;
+    width: 300px;
+    margin: auto;
+    background-color: black;
+}
+.promo li{
+    text-align: center;
+}
+.promo{
+    text-align: center;
+    color: rgb(119, 47, 5);
+}
